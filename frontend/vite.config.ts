@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 export default defineConfig({
   root: __dirname,
 
-  base: "./",
+  base: "/",
 
   plugins: [react()],
 
