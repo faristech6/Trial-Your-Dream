@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 250" role="img" aria-labelledby="title desc">
+  <title id="title">Trial Your Dream</title>
+  <desc id="desc">Trial Your Dream automotive test ride logo</desc>
+  <defs>
+    <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07549a"/>
+      <stop offset="0.52" stop-color="#16a7b7"/>
+      <stop offset="1" stop-color="#8b78bc"/>
+    </linearGradient>
+    <linearGradient id="wordmark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#07549a"/>
+      <stop offset="1" stop-color="#159db2"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(270 8)">
+    <path d="M35 78c38-45 96-45 137-8-35-12-69-5-90 16-18 18-31 43-32 68-24-14-31-45-15-76Z" fill="url(#orbit)"/>
+    <path d="M11 114c35 25 91 24 136-7 23-16 43-37 62-63-15 57-60 107-118 122-44 12-76-20-80-52Z" fill="url(#orbit)"/>
+    <path d="M70 39c16-19 45-25 67-11-18-2-31 6-39 19-7 12-12 27-13 42-18-8-27-30-15-50Z" fill="url(#orbit)" opacity=".9"/>
+    <path d="m185 22 9 23 24 4-19 14 5 25-20-14-22 12 8-23-16-18 25 2Z" fill="url(#orbit)"/>
+  </g>
+  <text x="360" y="220" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="1" fill="url(#wordmark)">TRIAL <tspan font-weight="400">YOUR DREAM</tspan></text>
+</svg>

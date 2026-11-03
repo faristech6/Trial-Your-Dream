@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vscode/
+vehicle-images/
+check-actions-output.txt
+missing-vehicle-images.csv
+*.log
+vehicle-image-backup-*.json
